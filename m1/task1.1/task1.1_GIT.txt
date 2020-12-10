@@ -1,0 +1,20 @@
+4ff7c1b HEAD@{0}: merge develop: Fast-forward
+11e1735 HEAD@{1}: checkout: moving from develop to master
+4ff7c1b HEAD@{2}: commit (merge): fix problem with merge
+60c3c6b HEAD@{3}: merge images: Fast-forward
+08799bf HEAD@{4}: checkout: moving from styles to develop
+39cd087 HEAD@{5}: checkout: moving from develop to styles
+08799bf HEAD@{6}: checkout: moving from styles to develop
+39cd087 HEAD@{7}: commit: change index.html
+3715673 HEAD@{8}: commit: add styles
+08799bf HEAD@{9}: checkout: moving from develop to styles
+08799bf HEAD@{10}: checkout: moving from images to develop
+60c3c6b HEAD@{11}: checkout: moving from styles to images
+08799bf HEAD@{12}: checkout: moving from develop to styles
+08799bf HEAD@{13}: checkout: moving from images to develop
+60c3c6b HEAD@{14}: commit: add images in index.html
+1df1029 HEAD@{15}: commit: add images
+08799bf HEAD@{16}: checkout: moving from develop to images
+08799bf HEAD@{17}: commit: create new index file
+11e1735 HEAD@{18}: checkout: moving from master to develop
+11e1735 HEAD@{19}: commit (initial): initial commit
