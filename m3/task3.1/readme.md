@@ -2,23 +2,23 @@
 ## Task 3.1 ##
 ## Part 1 ##
 1. Select subject area and describe the database schema.
-![diagram](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/db_diagram.png)
+    - ![diagram](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/db_diagram.png)
 2. Create a database on the server.
-![db](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/CREATE_TABLES.png)
+    - ![db](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/CREATE_TABLES.png)
 3. Fill in tables.
-![select](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/Select%20from%20databases.png)
+    - ![select](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/Select%20from%20databases.png)
 4. Construct SELECT operator with WHERE, GROUP BY, ORDER BY.
-![gws](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/selece_group_orger.png)
+    - ![gws](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/selece_group_orger.png)
 5. Execute DDL, DML and DCL query.
-![grant](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/grant%20_%20ddl_dlm.png)
+    - ![grant](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/grant%20_%20ddl_dlm.png)
 6. Create user with privileges.
-![user](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_new_user_and_set_privilegii.png)
-![premmision](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/premission.png)
+    - ![user](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_new_user_and_set_privilegii.png)
+    - ![premmision](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/premission.png)
 7. Make a selection from mysql database.
-![db](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/select%20from%20mysql%20db.png)
+    - ![db](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/select%20from%20mysql%20db.png)
 ## Part 2 ##
 8. Make backup of database.
-![backup](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_backup.png)
+    - ![backup](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_backup.png)
 9. Delete the table.
 ![drop](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/drop_table_orders.png)
 10. Restore Database.
