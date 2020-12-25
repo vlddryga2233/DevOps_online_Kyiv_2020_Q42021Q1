@@ -2,38 +2,38 @@
 ## Task 3.1 ##
 ## Part 1 ##
 1. Select subject area and describe the database schema.
-    - ![diagram](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/db_diagram.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/db_diagram.png" width=50%>
 2. Create a database on the server.
-    - ![db](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/CREATE_TABLES.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/CREATE_TABLES.png" width=50%>
 3. Fill in tables.
-    - ![select](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/Select%20from%20databases.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/Select%20from%20databases.png" width=50%>
 4. Construct SELECT operator with WHERE, GROUP BY, ORDER BY.
-    - ![gws](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/selece_group_orger.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/selece_group_orger.png" width=50%>
 5. Execute DDL, DML and DCL query.
-    - ![grant](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/grant%20_%20ddl_dlm.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/grant%20_%20ddl_dlm.png" width=50%>
 6. Create user with privileges.
-    - ![user](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_new_user_and_set_privilegii.png)
-    - ![premmision](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/premission.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_new_user_and_set_privilegii.png" width=50%>
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/premission.png" width=50%>
 7. Make a selection from mysql database.
-    - ![db](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/select%20from%20mysql%20db.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/select%20from%20mysql%20db.png" width=50%>
 ## Part 2 ##
 8. Make backup of database.
-    - ![backup](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_backup.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_backup.png" width=50%>
 9. Delete the table.
-    - ![drop](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/drop_table_orders.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/drop_table_orders.png" width=50%>
 10. Restore Database.
-    - ![restore](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/restore_backup.png)
-    - ![restore](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/restore_db.png)
-11. Transfer database to RDS AWS.'
-    - ![transfer](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/load_backup_on_database.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/restore_backup.png" width=50%>
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/restore_db.png" width=50%>
+11. Transfer database to RDS AWS.
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/load_backup_on_database.png" width=50%>
 12. Connect to database.
-    - ![connect](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/running%20%20databases_ok.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/running%20%20databases_ok.png" width=50%>
 13. Execute SELECT query.
-    - ![select](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/select_complex.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/select_complex.png" width=50%>
 14. Create the dump of database.
-    - ![dump](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/backup_new_db_from_server.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/backup_new_db_from_server.png" width=50%>
 ## Part 3 ##
 15. Create an Amazon DynamoDB table and enter data
-    - ![dynmo](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_dynamo_bd_table.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/create_dynamo_bd_table.png" width=50%>
 17. Query using Scan and Query.
-    - ![query](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/query_Dynamo_begin_with.png)
+    <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m3/task3.1/screenshots/query_Dynamo_begin_with.png" width=50%>
