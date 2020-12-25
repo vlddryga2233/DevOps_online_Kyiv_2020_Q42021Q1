@@ -10,7 +10,9 @@ MS Hyper-V is using mickrokernel architecture that simple partitioning and incre
 
 ## Part 2. VirtualBox ##
 
-1. Creating machine and installing [ubuntu](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/2.png) [OS](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-15%20191706.png)
+1. Creating machine and installing ubuntu OS
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/2.png" width="50%">
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-15%20191706.png" width="50%">
 
 2. Cloning [machine](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/4.png) and creating new [group](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/5.png) 
 
