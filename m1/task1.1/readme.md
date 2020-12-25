@@ -63,4 +63,4 @@ git merge styles
  
 ## What is DevOps ##
 
-    DevOps is a specialist which combine soft, hard and ops skills. 
+    Devops is a person who makes life easier for developers and simplifies development. Devops is engaged in setting up the environment and is responsible for the stable operation of the application
