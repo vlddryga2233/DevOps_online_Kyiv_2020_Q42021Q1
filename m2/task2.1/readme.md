@@ -14,13 +14,20 @@ MS Hyper-V is using mickrokernel architecture that simple partitioning and incre
 <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/2.png" width="50%">
 <img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-15%20191706.png" width="50%">
 
-2. Cloning [machine](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/4.png) and creating new [group](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/5.png) 
+2. Cloning machine and creating new group 
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/4.png" width="50%">
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/5.png" width="50%">
 
-3. Creating snapshot [tree](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/snapshots%20tree.png)
+3. Creating snapshot tree
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/snapshots%20tree.png" width="50%">
 
-4. [Importing](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/6.png) and [exporting](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/7.png) .ova file
-
-5. Configuring virtual machine ([usb](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/10.png), [shared_folder](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/9.png) and [network_configurations](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/8.png))
+4. Importing and exporting .ova file
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/6.png" width="50%">
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/7.png" width="50%">
+5. Configuring virtual machine (usb, shared folder and network configurations)
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/10.png" width="50%">
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/9.png" width="50%">
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/8.png" width="50%">
 
 6. Network modes
 
@@ -43,11 +50,13 @@ MS Hyper-V is using mickrokernel architecture that simple partitioning and incre
 
 ## Part 3. Vagrant ##
 
-1. Initializing environment and launching the [box](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/vagrant3.png)
+1. Initializing environment and launching the box
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/vagrant3.png" width="50%">
+2. Connecting to VM using Putty
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/ssh_putty.png" width="50%">
 
-2. Connecting to VM using [Putty](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/ssh_putty.png)
-
-3. Stoping and destoying [VM](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/vagrant3.png)
+3. Stoping and destoying VM
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/vagrant3.png" width="50%">
 
 4. Creating and configuring VM for vagrant
     - Seting su privelegion for vagrant user
@@ -57,6 +66,9 @@ MS Hyper-V is using mickrokernel architecture that simple partitioning and incre
 ```
 vagrant package --base 'server' --output server_template
 ```
-6. Creating [box](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-20%20163904.png)
-7. Initianolizing [VMs](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-20%20172308.png)
-8. Connecting to VMs by [Putty](https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-20%20172351.png)
+6. Creating box
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-20%20163904.png" width="50%">
+7. Initianolizing VMs
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-20%20172308.png" width="50%">
+8. Connecting to VMs by Putty
+<img src="https://github.com/vlddryga2233/DevOps_online_Kyiv_2020_Q42021Q1/blob/master/m2/task2.1/screenshots/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202020-12-20%20172351.png" width="50%">
