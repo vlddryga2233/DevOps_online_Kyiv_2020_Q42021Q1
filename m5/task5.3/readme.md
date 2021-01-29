@@ -5,11 +5,11 @@
     - Stoped - in this state of awaiting some event or release of a system resource.
     - Terminated - usually, processes that were stopped by a signal are in this state
     - Zombie - dead processes, they were stopped and are no longer running, but there is an entry in the process table for them, possibly due to the fact that there are child processes left
-2. Explore `pstree` command. 
+2. The `pstree` command. 
 
 <img src="./screenshots/pstree.png" width="50%">
 
-3. Explore proc file system
+3. The /proc file system
 
 > `/proc` - process information pseudo-filesystem
 
@@ -22,17 +22,17 @@
 
 <img src="./screenshots/lscpu.png" width="50%">
 
-5.  `ps` command information
+5. The `ps` command information
 
 <img src="./screenshots/ps_aux.png" width="50%">
 
-6. kernel and user process
+6. Kernel and user process
 
-> kernel procces have a PID from 1-999 and in ps information they display in `[]`
+> Kernel process have a PID from 1-999 and in ps information they display in `[]`
 
 <img src="./screenshots/kernel_procces.png" width="50%">
 
-> user procces have a user and display like a commmon command
+> User process have a user and display like a commmon command
 
 <img src="./screenshots/user_procces.png" >
 
@@ -57,13 +57,13 @@ Z|zombie
 
 <img src="./screenshots/vagrant_ps.png" width="80%">
 
-> you can use ps with grep to filter and serching information
+> You can use ps with grep to filter and serching information
 
 10. Top information display
 
 <img src="./screenshots/top_with_filters.png" width="70%">
 
-> top dislpay information about system workload  and information about processes
+> Top dispay information about system workload  and information about processes
 
 11. Top command user processes
 
@@ -132,7 +132,7 @@ Signal | Description
 
 <img src="./screenshots/add_private_ley.png" width="70%">
  
-> Aslo can execute command end terminate session
+> Aslo can execute command and terminate session
 
 <img src="./screenshots/ls%20from%20powershell.png" width="60%">
 
