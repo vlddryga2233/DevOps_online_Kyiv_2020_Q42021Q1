@@ -1,0 +1,24 @@
+#!/bin/bash
+
+function all {
+echo "List of IP addresses:"
+nmap -sP 192.168.43.*
+}
+
+function target {
+echo "List of Open TCP ports"
+nmap 192.168.43.104
+}
+
+function help {
+echo  "Use following keys for getting result"
+echo "Key	 -	 Description"
+echo "--all	 -	 Display all IP addresses in the subnetwork"
+echo "--target	 -	 Display all opened TCP ports in the system"
+}
+
+case "$1" in
+--all) all ;;
+--target) target ;;
+*) help ;;
+esac
